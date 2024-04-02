@@ -1,0 +1,27 @@
+.App {
+  padding: 40px;
+}
+
+.progressbar-container {
+  margin: auto;
+  position: relative;
+  width: 30%;
+  height: 20px;
+  border: 1 px solid #ccc;
+  background-color: #ccc;
+  border-radius: 50px;
+}
+
+.progressbar {
+  position: absolute;
+  height: 20px;
+  background-color: red;
+  border-radius: 50px;
+}
+
+button {
+  margin-top: 30px;
+  margin-left: 45%;
+  padding: 10px;
+}
+
